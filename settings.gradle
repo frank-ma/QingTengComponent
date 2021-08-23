@@ -1,0 +1,3 @@
+rootProject.name = "QingTengComponent"
+include ':app'
+include ':qtlibs'
